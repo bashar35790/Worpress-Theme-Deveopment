@@ -1,0 +1,19 @@
+/* 
+Theme Name: themedevelop2026
+Theme URI: https://example.com/themedevelop2026
+version: 1.0.0
+Author: Bashar
+Author URI: https://example.com
+Requirements: WordPress 6.0 or higher, PHP 7.4 or higher
+textdomain: themedevelop2026
+description: This is a custom WordPress theme developed by Bashar. It is designed to be responsive, fast, and user-friendly. The theme includes various features and customization options to enhance the user experience.
+tags: custom, responsive, fast, user-friendly, customizable, modern, clean, SEO-friendly, accessible
+
+*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
